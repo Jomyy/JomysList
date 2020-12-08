@@ -1,2 +1,2 @@
-# SugarGame
-is a game developed by me jomy
+# JomysList
+is a todolist written in java by me jomy
